@@ -324,8 +324,8 @@ Soil-Moisture-Prediction/
 
 # 👨‍💻 Author
 
-**M. Umesh Chandra**
-B.Tech – Artificial Intelligence & Data Science
+**M. Arun Nenavath**
+B.Tech – Mathematics and Computing
 
 ---
 

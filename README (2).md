@@ -324,7 +324,7 @@ Soil-Moisture-Prediction/
 
 # 👨‍💻 Author
 
-**M. Arun Nenavath**
+**N. Arun Nenavath**
 B.Tech – Mathematics and Computing
 
 ---

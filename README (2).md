@@ -316,7 +316,6 @@ Soil-Moisture-Prediction/
 │
 ├── data/t_s1_am_6am.csv
 ├── soil_moisture_model.ipynb
-├── soil_moisture_model.py
 └── README.md
 ```
 
